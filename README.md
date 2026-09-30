@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning<br><br>
+# 💫💻 About Me:
+🚀I'm a Frontend Developer with +4 years of experience building web applications, mainly focused on React.js.<br/>
+⚛️ Building frontend applications with React.js<br/>
+📊 Developing dashboards and real-time data visualizations<br/>
+⚡ Working with SCADA / OMS applications<br/>
+🗺️ Building interactive maps and GIS-based interfaces<br/>
+🔌 Integrating REST APIs and real-time data<br/>
+🧩 Creating reusable and maintainable UI components<br/>
+📱 Developing responsive web applications and PWAs<br/>
+
 
 
 ## 🌐 Socials:
